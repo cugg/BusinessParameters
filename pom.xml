@@ -13,7 +13,6 @@
 
     <modules>
         <module>parameters-adapter</module>
-        <module>parameters-application</module>
         <module>parameters-backend</module>
         <module>parameters-basic</module>
         <module>parameters-client</module>
@@ -23,6 +22,7 @@
         <module>parameters-experimental</module>
         <module>parameters-features</module>
         <module>parameters-management</module>
+        <module>parameters-application</module>
         <module>parameters-types</module>
         <!--<module>scratch</module>-->
         <module>petshop</module>
